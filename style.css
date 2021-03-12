@@ -10,9 +10,62 @@ body {
   justify-content: center;
   flex-direction: column;
   height: 100vh;
+  color: hsl(227, 10%, 46%);
+  font-weight: 400;
+  font-family: "Kumbh Sans", sans-serif;
+  text-align: center;
 }
 
 #card {
-  width: 360px;
+  width: 350px;
   height: 384px;
+  background-color: white;
+  border-radius: 14px;
+  background-image: url(images/bg-pattern-card.svg);
+  background-repeat: no-repeat;
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; */
+}
+
+img {
+  border-radius: 50%;
+  border: solid white 5px;
+  position: relative;
+  top: 87px;
+  display: block;
+  top: 87px;
+  margin: auto;
+}
+
+#name {
+  position: relative;
+  top: 110px;
+}
+
+#name > h2 {
+  display: inline;
+}
+
+section {
+  display: block;
+}
+
+h2 {
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+#stats {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+#stats > span {
+  font-size: 8px;
+  margin: 0 25px;
 }
