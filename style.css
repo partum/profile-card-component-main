@@ -1,3 +1,17 @@
-* {
+body {
+  background-image: url("images/bg-pattern-top.svg"),
+    url(images/bg-pattern-bottom.svg);
   background-color: #19a1ad;
+  background-repeat: no-repeat;
+  background-position: -10% 95%, 110% -110%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+#card {
+  width: 360px;
+  height: 384px;
 }
