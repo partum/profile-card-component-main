@@ -56,8 +56,8 @@ This snippet is important to center items both horizontaly and verticaly.
 
 ### Continued development
 
--I think the most obvious improvement I need to make is with positioning background images. I know they look off, but I don't know how to make them perfect. I also don't know how to position them so they look right in the mobile view. Now that I type this I realize the answer is media quires.
--The other thing I want to improve is my positioning skills. I think my work /looks/ right but I'm not sure I went about it in the right way.
+I think the most obvious improvement I need to make is with positioning background images. I know they look off, but I don't know how to make them perfect. I also don't know how to position them so they look right in the mobile view. Now that I type this I realize the answer is media quires.  
+The other thing I want to improve is my positioning skills. I think my work /looks/ right but I'm not sure I went about it in the right way.
 
 ## Author
 
