@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/partum/profile-card-component-main)
-- Live Site URL: [Add live site URL here](http://juliaarrington.com/portfolio/profile-card/index.html)
+- Solution URL: [github.com/partum/profile-card-component-main](https://github.com/partum/profile-card-component-main)
+- Live Site URL: [juliaarrington.com/portfolio/profile-card/index.html](http://juliaarrington.com/portfolio/profile-card/index.html)
 
 ## My process
 
@@ -37,10 +37,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <p style="font-size: 12px">London</p>
@@ -60,10 +56,10 @@ This snippet is important to center items both horizontaly and verticaly.
 
 ### Continued development
 
-I think the most obvious improvement I need to make is with positioning background images. I know they look off, but I don't know how to make them perfect. I also don't know how to position them so they look right in the mobile view. Now that I type this I realize the answer is media quires.
-The other thing I want to improve is my positioning skills. I think my work /looks/ right but I'm not sure I went about it in the right way.
+-I think the most obvious improvement I need to make is with positioning background images. I know they look off, but I don't know how to make them perfect. I also don't know how to position them so they look right in the mobile view. Now that I type this I realize the answer is media quires.
+-The other thing I want to improve is my positioning skills. I think my work /looks/ right but I'm not sure I went about it in the right way.
 
 ## Author
 
-- Website - [Add your name here](https://www.juliaarrington.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/partum)
+- Website - [Julia Arrington](https://www.juliaarrington.com)
+- Frontend Mentor - [@partum](https://www.frontendmentor.io/profile/partum)
