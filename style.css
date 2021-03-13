@@ -23,10 +23,6 @@ body {
   border-radius: 14px;
   background-image: url(images/bg-pattern-card.svg);
   background-repeat: no-repeat;
-  /* display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column; */
 }
 
 img {
@@ -60,12 +56,27 @@ h2 {
 
 #stats {
   display: flex;
-  align-items: center;
+
   justify-content: space-around;
-  flex-direction: row;
+
+  position: relative;
+  top: 143px;
 }
 
 #stats > span {
-  font-size: 8px;
+  font-size: 10px;
   margin: 0 25px;
+  line-height: 50%;
+}
+
+p {
+  position: relative;
+  top: 108px;
+}
+
+#line {
+  width: 350px;
+  position: relative;
+  border-bottom: 1px solid #e7e7e7;
+  top: 121px;
 }
