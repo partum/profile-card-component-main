@@ -3,7 +3,7 @@ body {
     url(images/bg-pattern-bottom.svg);
   background-color: #19a1ad;
   background-repeat: no-repeat;
-  background-position: -24px -336px, 10px 30px;
+  background-position: -300px -500px, 800px 500px;
   background-attachment: fixed, fixed;
   display: flex;
   align-items: center;
